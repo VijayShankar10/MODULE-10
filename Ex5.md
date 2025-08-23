@@ -1,25 +1,25 @@
-Ex.No:5
+# Ex.No:5
 
-Ex.Name: Write A C++ Program for Topological Sorting (using vector and algorithm STLs)
+# Ex.Name: Write A C++ Program for Topological Sorting (using vector and algorithm STLs)
 
-Date:
-Aim:
-
-
-Algorithm:
+## Date:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
