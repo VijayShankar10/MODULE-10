@@ -1,26 +1,26 @@
-Ex.No: 3
+# Ex.No: 3
 
-Ex.Name: Write A CPP Program to implement BFS using vectors and queue (use character data)
+# Ex.Name: Write A CPP Program to implement BFS using vectors and queue (use character data)
 
-Date:
+## Date:
 
-Aim:
-
-
-Algorithm:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
