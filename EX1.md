@@ -1,25 +1,25 @@
-Ex.No:1
+# Ex.No:1
 
-Ex.Name:Write A C++ Program to represent the Adjacency Matrix
+# Ex.Name:Write A C++ Program to represent the Adjacency Matrix
 
-Date:
-Aim:
-
-
-Algorithm:
+## Date:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
