@@ -1,27 +1,27 @@
-Ex.No:2
+# Ex.No:2
 
-Ex.Name: Write A CPP Program to implement BFS using vectors and queue (use float data)
-
-
-Date:
-
-Aim:
+# Ex.Name: Write A CPP Program to implement BFS using vectors and queue (use float data)
 
 
-Algorithm:
+## Date:
+
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
