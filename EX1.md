@@ -57,7 +57,11 @@ int main()
     DFS(adj, 1, visited);
 }
 ```
+
 ## Output:
+<img width="863" height="871" alt="image" src="https://github.com/user-attachments/assets/75bb7076-0e4d-427a-96d2-075ed8fe4ab7" />
+
+## Result:
 ```
 Input:
 6
@@ -70,7 +74,3 @@ Input:
 Output:
 1 2 4 5 3
 ```
-## Result:
-<img width="863" height="871" alt="image" src="https://github.com/user-attachments/assets/75bb7076-0e4d-427a-96d2-075ed8fe4ab7" />
-
-
