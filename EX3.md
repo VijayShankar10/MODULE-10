@@ -104,7 +104,11 @@ int main()
 	return 0;
 }
 ```
+
 ## Output:
+<img width="873" height="732" alt="image" src="https://github.com/user-attachments/assets/cc67e0f8-8fd2-4204-9626-f6fa847e120b" />
+
+## Result:
 ```
 Input:
 6
@@ -119,7 +123,3 @@ Output:
 Topological Sort of the given graph
 5 4 2 3 1 0
 ```
-## Result:
-<img width="873" height="732" alt="image" src="https://github.com/user-attachments/assets/cc67e0f8-8fd2-4204-9626-f6fa847e120b" />
-
-
