@@ -82,7 +82,11 @@ int main()
 	return 0;
 }
 ```
+
 ## Output:
+<img width="852" height="701" alt="image" src="https://github.com/user-attachments/assets/9ce514ff-f941-4f8b-a724-dc27c207e86e" />
+
+## Result:
 ```
 Input:
 8 9
@@ -100,7 +104,3 @@ Input:
 Output:
 0 1 2 3 4 5 6 7
 ```
-## Result:
-<img width="852" height="701" alt="image" src="https://github.com/user-attachments/assets/9ce514ff-f941-4f8b-a724-dc27c207e86e" />
-
-
